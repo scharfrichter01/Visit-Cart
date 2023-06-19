@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    background-image: ;
+}
+
+.p1 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+    text-align: center;
+}
+
+.p2 {
+    color: darkslategray;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    color: currentColor
+}
+
+.podval {
+    font-size: 20px;
+    line-height: 25px;
+    color: dimgrey;
+    text-align: center
+}
+
+.link1 {
+    padding-top: 70px;
+    height: 160px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.h1_1 {
+    font-size: 64px;
+    color: #1F3F68;
+    text-align: center
+}
+
+.h1_2 {
+    font-size: 64px;
+    color: royalblue;
+    text-align: center;
+}
+
+.h2_1 {
+    text-align: center;
+}
+
+.h3_1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.h3_2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.h4_1 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+    text-align: center
+}
+
+.h4_2 {
+    text-align: center;
+    font-family: cursive
+}
+
+.h4_3 {
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive
+}
+
+.text {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.text2 {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500. font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase.
+}
+
+.avatar {
+    float: left;
+    width: 120px;
+    height: auto;
+    padding: 7px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.script {
+    text-align: center
+}
+
+.send_message {
+    text-align: center
+}
+
+.map {
+    text-align: center
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.menu li a {
+    color: dimgrey;
+    font-size: 18px;
+    line-height: 14px;
+    list-style-type: none;
+    width: 150px;
+    margin: 5px;
+    float: right;
+    border: 2px solid #ccc;
+    background-color: ghostwhite;
+}
+
+.menu li a:hover {
+    color: aquamarine
+}
+
+.menu li a:active {
+    color: green;
+}
+
+.menu li {
+    height: 10px;
+}
+
+.body {
+    clear: both;
+    padding-top: 20px;
+}
+
+.haup {
+    border: 5px solid;
+    overflow: hidden;
+    border-left-width: 7px;
+    border-color: darkslategrey;
+    background-color: snow
+}
+
+.haupmenu {
+    padding-top: 20px;
+    height: 150px;
+    color: red;
+    border: 5px solid black;
+    background-color: whitesmoke;
+}
+
+.catalogrod {
+    overflow: hidden;
+    text-align: center;
+}
+
+.lich {
+    border: 2px solid black;
+    display: inline-block;
+    height: 100px;
+}
